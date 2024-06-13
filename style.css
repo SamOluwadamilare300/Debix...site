@@ -1,0 +1,19 @@
+
+   
+    body {
+      position: relative;
+    }
+    .navbar {
+      position: absolute;
+      top: 0;
+      width: 100%;
+    }
+    section {
+      padding: 100px 0;
+      background-color: #f8f9fa;
+    }
+    footer {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    }
